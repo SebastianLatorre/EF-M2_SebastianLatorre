@@ -1,3 +1,5 @@
+Landing Page: https://sebastianlatorre.github.io/EF-M2_SebastianLatorre/
+
 # 💼 EF-M2 Proyecto Integrador: Landing Page Profesional
 
 ## Objetivo General
